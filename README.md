@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://t.me/icykit target="_blank">Nikita</a> 
+<h1 align="center">Hi there, I'm <a href="https://icykit.net/ target="_blank">Nikita</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">I'm 19 y.o. Frontend Developer from Russia 🇷🇺</h3>
   
