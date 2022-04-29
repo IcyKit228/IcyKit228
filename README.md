@@ -4,12 +4,12 @@
   
 <h2>My stack:</h2>
 <ul>
-  <li><b> HTML 📑</b></li>
-  <li><b> CSS</b> (SASS, SCSS, Less) 🎨</li>
-  <li><b> Bootstrap</b> 🚀</li>
-  <li><b> Tailwind</b> ✈️</li>
-  <li><b> JavaScript</b> (jQuery, WebPack, Babel, Gulp) ⌨️</li>
-  <li><b> React</b> ⚛️</li>
-  <li><b> TypeScript</b>🧑🏻‍💻</li>
+  <li><b> HTML </b> 📑</li>
+  <li><b> CSS </b> (SASS, SCSS, Less) 🎨</li>
+  <li><b> Bootstrap </b> 🚀</li>
+  <li><b> Tailwind </b> ✈️</li>
+  <li><b> JavaScript </b> (jQuery, WebPack, Babel, Gulp) ⌨️</li>
+  <li><b> React </b> ⚛️</li>
+  <li><b> TypeScript </b> 🧑🏻‍💻</li>
 </ul>
   
