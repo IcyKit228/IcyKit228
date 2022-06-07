@@ -8,8 +8,21 @@
   <li><b> CSS </b> (SASS, SCSS, Less) 🎨</li>
   <li><b> Bootstrap </b> 🚀</li>
   <li><b> Tailwind </b> ✈️</li>
-  <li><b> JavaScript </b> (jQuery, WebPack, Babel, Gulp) ⌨️</li>
+  <li><b> Node JS, JavaScript </b> (jQuery, WebPack, Babel, Gulp, ...) ⌨️</li>
   <li><b> React </b> ⚛️</li>
-  <li><b> TypeScript </b> 🧑🏻‍💻</li>
+</ul>
+
+ <h2>Learning now:</h2>
+ <ul>
+   <li>TypeScript</li>
+ </ul>
+  
+ <h2>In plans:</h2>
+ <ul>
+  <li>MongoDB</li>
+  <li>Next.JS</li>
+  <li>Express.JS</li>
+  <li>Solidity, Web3.JS, Ethers.JS</li>
+ </ul>
 </ul>
   
